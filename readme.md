@@ -6,7 +6,7 @@ The goal is to provide a *clear, minimal, and extensible* implementation of a sm
 
 For a detailed visual explanation of the Transformer Decoder Architecture:
 
-* 📘 **Documentation:** [Transformer Decoder in Depth]()
+* 📘 **Documentation:** [Transformer Decoder in Depth](https://a-erne.github.io/mini-gpt/)  
 * 🎤 **Slides:** [Small Language Model Slides](https://kdrive.infomaniak.com/app/share/1951205/9f537a0f-63fb-41fe-9760-e2d601eddc60)
 
 ---
