@@ -112,19 +112,21 @@ See detailed instructions in:
 ```
 /
 ├── Code/
+│   ├── readme.md
 │   ├── google_colab_code.ipynb
 │   └── Cluster/
-│        └── readme.md
+│       ├── job.sh
+│       ├── main.py
+│       └── readme.md
+│
 ├── Data/
 │   └── dataset.txt
+│
 ├── Documentation/
 │   ├── experiments.md
+│   ├── generated_text.txt
 │   └── pytorch_notebook.ipynb
-├── model/
-│   ├── attention.py
-│   ├── decoder_block.py
-│   ├── transformer.py
-│   └── utils.py
+│
 └── README.md
 ```
 
